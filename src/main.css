@@ -72,6 +72,7 @@ html {
 }
 
 body {
+  padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 160px;
 }
@@ -88,6 +89,10 @@ footer {
   text-shadow: 1px 1px 1px black;
   padding: 40px 0;
 }
+ .content-wrapper {
+  text-align: center;
+  
+ }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
