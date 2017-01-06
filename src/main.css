@@ -3,7 +3,12 @@
 
 .navbar {
   margin-bottom: 0;
+
 }
+  .nav {
+    display:flex;
+    justify-content: space-around;
+  }
 
 /* CUSTOMIZED CAROUSEL
 -------------------------------------------------- */
@@ -76,6 +81,10 @@ html {
 }
 
 body {
+  font-family: Lobster, cursive;
+  text-align: center;
+  color: white;
+  background-image: url("https://apis.xogrp.com/media-api/images/27b736f4-fbf3-4b2e-a08c-7f5abaf6d370");
   padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 160px;
@@ -94,7 +103,7 @@ footer {
   padding: 40px 0;
 }
   .container {
-    
+
   }
  .content-wrapper {
   text-align: center;
